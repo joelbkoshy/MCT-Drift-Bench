@@ -1,0 +1,9 @@
+ollama>=0.3.0
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+chromadb>=0.5
+sentence-transformers>=3.0

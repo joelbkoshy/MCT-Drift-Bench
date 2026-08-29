@@ -1,0 +1,165 @@
+## Metacognitive Therapy (MCT) — Clinical Knowledge Base for RAG System
+## Source: Synthesized from Wells (2009), Winter et al. (2019), and DSM-5 PDD criteria
+
+### SECTION 1: Persistent Depressive Disorder (PDD) — DSM-5 Diagnostic Criteria
+
+Persistent Depressive Disorder (PDD), formerly known as dysthymia, is defined by the DSM-5 (300.4 / F34.1) as a chronic depressive condition.
+
+Criterion A: Depressed mood for most of the day, for more days than not, as indicated by subjective account or observation by others, for at least 2 years. In children and adolescents, mood can be irritable and duration must be at least 1 year.
+
+Criterion B: Presence, while depressed, of two or more of the following:
+1. Poor appetite or overeating
+2. Insomnia or hypersomnia
+3. Low energy or fatigue
+4. Low self-esteem
+5. Poor concentration or difficulty making decisions
+6. Feelings of hopelessness
+
+Criterion C: During the 2-year period (1 year for children or adolescents), the individual has never been without symptoms in Criteria A and B for more than 2 months at a time.
+
+Criterion D: Criteria for a major depressive disorder may be continuously present for 2 years.
+
+Criterion E: There has never been a manic episode or a hypomanic episode, and criteria have never been met for cyclothymic disorder.
+
+Criterion F: The disturbance is not better explained by a persistent schizoaffective disorder, schizophrenia, delusional disorder, or other specified or unspecified schizophrenia spectrum and other psychotic disorder.
+
+Criterion G: The symptoms are not attributable to the physiological effects of a substance or another medical condition.
+
+Criterion H: The symptoms cause clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+PDD prevalence: approximately 0.5% for persistent depressive disorder and 1.5% for chronic major depressive disorder in the United States.
+
+PDD often has an early and insidious onset in childhood, adolescence, or early adult life. Early onset before age 21 is associated with higher likelihood of comorbid personality disorders and substance use disorders. Individuals with PDD are at higher risk for psychiatric comorbidity, particularly anxiety disorders and substance use disorders.
+
+### SECTION 2: The Metacognitive Model of Depression
+
+The metacognitive model proposes that emotional disorders, including persistent depression, are maintained by a pattern of thinking called the Cognitive Attentional Syndrome (CAS).
+
+The CAS consists of:
+1. Worry and rumination — repetitive negative thinking about causes, meanings, and consequences of depressive symptoms
+2. Threat monitoring — heightened attention to internal and external threats
+3. Maladaptive coping strategies — including thought suppression, avoidance, and reassurance-seeking
+
+The CAS is driven by metacognitive beliefs — beliefs about thinking itself. There are two types:
+- Positive metacognitive beliefs: beliefs that rumination and worry are useful (e.g., "Worrying helps me cope," "Analyzing my feelings will help me find answers")
+- Negative metacognitive beliefs: beliefs that thoughts are uncontrollable and dangerous (e.g., "I cannot control my thinking," "My thoughts could make me go crazy")
+
+In PDD, these metacognitive beliefs become deeply entrenched due to the chronic nature of the disorder. The individual develops a habitual pattern of responding to negative thoughts with extended rumination, which perpetuates the depressed mood and prevents natural recovery.
+
+The key distinction: It is not the negative thoughts themselves that maintain depression, but the way individuals RELATE to those thoughts — through rumination, monitoring, and maladaptive coping.
+
+### SECTION 3: Metacognitive Therapy (MCT) — Core Principles
+
+MCT was developed by Adrian Wells to directly target metacognitive beliefs and the CAS. The fundamental principles are:
+
+PRINCIPLE 1 — PROCESS OVER CONTENT
+MCT does NOT engage with the content of depressive thoughts. It does not ask "Why do you feel sad?" or "What evidence supports this thought?" Instead, MCT targets the PROCESS of thinking — the rumination, the worry, the monitoring patterns.
+
+PRINCIPLE 2 — DETACHED MINDFULNESS
+Detached mindfulness is the ability to be aware of thoughts without engaging with them. The patient learns to observe a thought (e.g., "I am worthless") without:
+- Analyzing it
+- Trying to prove or disprove it
+- Suppressing it
+- Responding to it emotionally
+The goal is to let thoughts pass like clouds — noticed but not acted upon.
+
+Detached mindfulness instructions:
+- "Notice the thought is there, but do not interact with it"
+- "Allow the thought to occupy its own space without engaging"
+- "Observe the thought as if watching a leaf float down a stream"
+- "The thought does not require your attention or response"
+
+PRINCIPLE 3 — ATTENTION TRAINING TECHNIQUE (ATT)
+ATT is a structured exercise designed to enhance flexible attentional control. It involves:
+1. Selective attention — focusing on a single sound among multiple competing sounds
+2. Attention switching — deliberately shifting focus between different sounds
+3. Divided attention — attempting to attend to all sounds simultaneously
+
+ATT is practiced for 12 minutes daily. It strengthens the executive control of attention, reducing the automatic pull of rumination.
+
+PRINCIPLE 4 — METACOGNITIVE BELIEF MODIFICATION
+MCT directly challenges metacognitive beliefs through:
+- Verbal reattribution: "Is this worry helping you solve the problem, or is it keeping you stuck?"
+- Behavioral experiments: "Try postponing your worry to a designated 15-minute worry period — what happens?"
+- Examining evidence for uncontrollability: "You said you can't stop ruminating. Have you ever been interrupted by a phone call and stopped? What does that tell you about controllability?"
+
+PRINCIPLE 5 — WORRY/RUMINATION POSTPONEMENT
+Patients learn to:
+1. Detect the onset of rumination
+2. Acknowledge the trigger thought without elaboration
+3. Postpone extended thinking to a designated "worry period" (e.g., 15 minutes at 6pm)
+4. During the worry period, decide whether the concern still warrants attention
+
+### SECTION 4: What MCT Does NOT Do (Critical Negative Constraints)
+
+MCT explicitly avoids:
+1. ASKING "WHY" QUESTIONS — "Why do you feel this way?" encourages rumination
+2. CONTENT ANALYSIS — exploring the details, causes, or history of depressive thoughts
+3. COGNITIVE RESTRUCTURING — challenging the truth of thoughts (this is CBT, not MCT)
+4. EMOTIONAL VALIDATION OF RUMINATION — saying "It's understandable that you keep thinking about this" validates the rumination process
+5. PROBLEM-SOLVING AROUND DEPRESSIVE CONTENT — discussing solutions to the problems the patient ruminates about
+6. REASSURANCE — providing comfort about the content of worries (this reinforces threat monitoring)
+7. EXTENDED EXPLORATION — asking follow-up questions about what the patient is feeling or thinking in detail
+
+The fundamental rule: If a response encourages the patient to THINK MORE about the content of their depressive thoughts, it violates MCT principles.
+
+### SECTION 5: MCT Session Structure for PDD
+
+A typical MCT session for PDD follows this structure:
+1. SOCIALIZATION — educating the patient about the metacognitive model (CAS, metacognitive beliefs)
+2. CAS FORMULATION — identifying the patient's specific CAS pattern (what triggers rumination, what maintains it, what metacognitive beliefs drive it)
+3. DETACHED MINDFULNESS TRAINING — practicing the skill of observing thoughts without engagement
+4. ATT PRACTICE — guided attention training exercises
+5. METACOGNITIVE BELIEF CHALLENGING — targeting positive beliefs about rumination ("Is this useful?") and negative beliefs about uncontrollability ("Can you really not stop?")
+6. WORRY/RUMINATION POSTPONEMENT — establishing and practicing postponement as a behavioral strategy
+7. RELAPSE PREVENTION — consolidating metacognitive skills and planning for future setbacks
+
+### SECTION 6: MCT-Appropriate Responses to Common PDD Presentations
+
+PRESENTATION: "I keep thinking about how I've failed at everything."
+MCT RESPONSE: "I notice you're describing a pattern of repetitive thinking. Rather than exploring what you're thinking about, can you notice that this is your mind doing something — ruminating? Can you let that thought exist without engaging further with it?"
+
+PRESENTATION: "I can't stop worrying about whether things will ever get better."
+MCT RESPONSE: "You've noticed a worry pattern. Let me ask — is this worry helping you solve anything right now, or is it keeping your attention locked on the problem? What would happen if you postponed this worry to your designated time?"
+
+PRESENTATION: "I feel hopeless all the time, nothing ever changes."
+MCT RESPONSE: "That sounds like a persistent thought your mind keeps returning to. Instead of examining whether it's true or false, I want you to practice noticing it as a thought — just a thought — without following where it leads. Can you try that right now?"
+
+PRESENTATION: "I'm worried something terrible will happen."
+MCT RESPONSE: "You're describing threat monitoring — your attention is scanning for danger. Let's practice shifting your attention deliberately. Can you try the attention training exercise we discussed?"
+
+PRESENTATION: "I've been thinking about this problem at work for weeks."
+MCT RESPONSE: "It sounds like rumination has been active. Rather than trying to solve the problem right now, let's look at the process: how much time are you spending on this each day? Is the thinking producing new solutions, or is it the same loop?"
+
+### SECTION 7: Crisis Detection and Safety Protocols
+
+The following situations require IMMEDIATE clinician escalation and bypass of any AI-generated response:
+- Expression of suicidal ideation (direct or indirect)
+- Expression of self-harm intent or behavior
+- Expression of harm toward others
+- Acute psychotic symptoms
+- Substance intoxication affecting safety
+
+Crisis indicators include but are not limited to:
+- "I want to end it all"
+- "I don't want to be alive"
+- "I've been thinking about hurting myself"
+- "I have a plan to kill myself"
+- "Everyone would be better off without me"
+- "I can't go on like this"
+- "I've been cutting/burning/hitting myself"
+
+In crisis situations: DO NOT attempt therapeutic intervention. Immediately display emergency resources and notify the supervising clinician.
+
+### SECTION 8: Distinguishing MCT from CBT Responses
+
+CBT RESPONSE (NOT to be used): "You said you've failed at everything. Let's examine the evidence — can you think of times you succeeded?"
+MCT RESPONSE (CORRECT): "Your mind is generating the thought 'I've failed at everything.' Instead of examining this thought, can you notice it as a mental event and let it be?"
+
+CBT RESPONSE (NOT to be used): "What cognitive distortion might be at play here? Could this be all-or-nothing thinking?"
+MCT RESPONSE (CORRECT): "I notice a pattern of extended thinking about this topic. Is this thinking useful, or is it the rumination pattern we identified?"
+
+CBT RESPONSE (NOT to be used): "Let's create a thought record to track this belief."
+MCT RESPONSE (CORRECT): "Rather than tracking what you think, let's track how you're relating to your thoughts — are you engaging with them or letting them pass?"
+
+The key difference: CBT asks "Is this thought TRUE?" MCT asks "Is this THINKING PATTERN HELPFUL?"

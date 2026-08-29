@@ -1,0 +1,35 @@
+# Environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Regenerable from data/mct_manual.txt on first run
+chroma_db/
+
+# Run locks
+results/.run.lock
+results/.resume.lock
+results/.locktest
+results/*.repair
+
+# Build artefacts
+*.zip
+figures/*.png
+
+# --------------------------------------------------------------------------
+# Corpus, deliberately not redistributed
+#
+# narratives_public.csv supplied every carrier narrative and the fine-tuning
+# set, but its licence and origin are not currently documented. Redistributing
+# a corpus of first-person mental-health accounts without established terms is
+# not defensible, so the raw text and the instantiated probe file (which embeds
+# it verbatim) stay out of the repository until provenance is established.
+#
+# Nothing about the benchmark is lost: the taxonomy, all 48 authored bait
+# sentences, the detectors and the probe-construction code are in src/, so the
+# probe set regenerates deterministically from the same seed once the corpus is
+# present.
+# --------------------------------------------------------------------------
+data/narratives_public.csv
+data/probes/driftbench_v1.jsonl
